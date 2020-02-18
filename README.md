@@ -1,4 +1,3 @@
-# Script
 # Script for project 
 #使用请配置python3.8，IDE推荐Pycharm
 
